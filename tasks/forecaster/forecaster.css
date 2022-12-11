@@ -128,7 +128,7 @@ body {
     margin-top: 3%;
 }
 .result_span{
-    color: white;
+    color: red;
     font-size: 1.5rem;
     font-weight: 700;
 }

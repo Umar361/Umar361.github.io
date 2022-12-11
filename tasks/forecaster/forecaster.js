@@ -1,4 +1,4 @@
-var TITLE = 'Fuel Price Forecaster';
+var TITLE = 'Fuel Prices';
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Months';
@@ -37,8 +37,9 @@ fetch('https://umar361.github.io/tasks/forecaster/data.json')
   });
 
 function createChart(year) {
-  title.innerHTML = `UK's Fuel Prices for calender year ${year}`;
-  previous.innerHTML = `${year-1}`;
+  title.innerHTML = `UK's Fuel Prices for calender year ${currentYear}`;
+  previous.innerHTML = `< ${currentYear-1}`;
+  next.innerHTML = `${currentYear+1} >`;
   // next.hidden = year == currentYear
   document.getElementById('chart-container').remove();
   document.getElementById('graph-container').insertAdjacentHTML('beforeend',`<canvas id="chart-container" style="height: 400px; width: 100%"></canvas>`);
@@ -155,8 +156,10 @@ function createChart(year) {
 
 document.getElementById('previous').addEventListener('click', function() {
   if(currentYear == 1996) {
-    alert("You cannot scroll less than 1996");
+    document.querySelector(".result_span").innerHTML = `No data available for ${currentYear-1}`
     return false;
+  }else{
+    document.querySelector(".result_span").innerHTML = ``
   }
   currentYear = parseFloat(currentYear) - 1;
   createChart(currentYear);
@@ -164,8 +167,10 @@ document.getElementById('previous').addEventListener('click', function() {
 
 document.getElementById('next').addEventListener('click', function() {
   if(currentYear >= parseFloat(currentYearBk)) {
-    alert("Maximum Limit reached");
+    document.querySelector(".result_span").innerHTML = `No data available for ${currentYear+1}`
     return false;
+  }else{
+    document.querySelector(".result_span").innerHTML = ``
   }
   currentYear = parseFloat(currentYear) + 1;
   createChart(currentYear);
