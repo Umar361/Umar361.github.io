@@ -3,7 +3,7 @@ const result = document.querySelector('.result');
 const result_par = document.querySelector('.result_par');
 let amount = document.querySelector('#amount')
 
-fetch('./data.json')
+fetch('https://umar361.github.io/tasks/data.json')
     .then((response) => response.json())
     .then((json) => console.log(json));
 
