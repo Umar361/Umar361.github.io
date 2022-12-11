@@ -5,7 +5,7 @@ const result = document.querySelector('.result');
 const result_par = document.querySelector('.result_par');
 let amount = document.querySelector('#amount')
 var currencies = []
-fetch('./tasks/data.json')
+fetch('./tasks/converter/data.json')
     .then((response) => response.json())
     .then((json) => {
         // console.log(json);

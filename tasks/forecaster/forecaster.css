@@ -57,6 +57,14 @@ body {
     flex-wrap: wrap;
 }
 
+.chart{
+    padding: 5%;
+    margin-top: 1% !important;
+    margin: 10%;
+    height: 60%;
+    margin-bottom: 0 !important;
+}
+
 #form_el p{
     color: var(--yellow_color);
     font-weight: 600;
