@@ -1,0 +1,2608 @@
+{
+  "1996": {
+     {
+       "year": 1996,
+       "month": "February",
+       "solid": 45.4,
+       "gas": 43.3,
+       "eletric": 62.5,
+       "liquid": 32.9
+     },
+     {
+       "year": 1996,
+       "month": "March",
+       "solid": 45.4,
+       "gas": 43.3,
+       "eletric": 62.5,
+       "liquid": 33.9
+     },
+     {
+       "year": 1996,
+       "month": "April",
+       "solid": 45.4,
+       "gas": 43.3,
+       "eletric": 62.5,
+       "liquid": 34.9
+     },
+     {
+       "year": 1996,
+       "month": "May",
+       "solid": 44,
+       "gas": 43.3,
+       "eletric": 62.6,
+       "liquid": 32.8
+     },
+     {
+       "year": 1996,
+       "month": "June",
+       "solid": 43.8,
+       "gas": 43.3,
+       "eletric": 62.9,
+       "liquid": 32.1
+     },
+     {
+       "year": 1996,
+       "month": "July",
+       "solid": 43.9,
+       "gas": 43.3,
+       "eletric": 63,
+       "liquid": 32.6
+     },
+     {
+       "year": 1996,
+       "month": "August",
+       "solid": 43.9,
+       "gas": 43.3,
+       "eletric": 62.7,
+       "liquid": 32.9
+     },
+     {
+       "year": 1996,
+       "month": "September",
+       "solid": 44.8,
+       "gas": 43.3,
+       "eletric": 62.4,
+       "liquid": 37.4
+     },
+     {
+       "year": 1996,
+       "month": "October",
+       "solid": 45.7,
+       "gas": 43.3,
+       "eletric": 61.7,
+       "liquid": 40.7
+     },
+     {
+       "year": 1996,
+       "month": "November",
+       "solid": 46.1,
+       "gas": 43.3,
+       "eletric": 61.3,
+       "liquid": 36.5
+     },
+     {
+       "year": 1996,
+       "month": "December",
+       "solid": 46.1,
+       "gas": 43.3,
+       "eletric": 61.1,
+       "liquid": 38.3
+     }
+   },
+   "1997":{
+     {
+       "year": 1997,
+       "month": "January",
+       "solid": 46.2,
+       "gas": 43.3,
+       "eletric": 60.4,
+       "liquid": 38.5
+     },
+     {
+       "year": 1997,
+       "month": "February",
+       "solid": 46.2,
+       "gas": 43.3,
+       "eletric": 60.7,
+       "liquid": 36.1
+     }],
+    {
+      "year": 1997,
+      "month": "March",
+      "solid": 46.1,
+      "gas": 43.3,
+      "eletric": 60.9,
+      "liquid": 33
+    },
+    {
+      "year": 1997,
+      "month": "April",
+      "solid": 46,
+      "gas": 43.1,
+      "eletric": 60.8,
+      "liquid": 31.3
+    },
+    {
+      "year": 1997,
+      "month": "May",
+      "solid": 44.7,
+      "gas": 43.1,
+      "eletric": 60.4,
+      "liquid": 31.4
+    },
+    {
+      "year": 1997,
+      "month": "June",
+      "solid": 44.5,
+      "gas": 43.1,
+      "eletric": 60.1,
+      "liquid": 30.6
+    },
+    {
+      "year": 1997,
+      "month": "July",
+      "solid": 44.6,
+      "gas": 43.1,
+      "eletric": 59.7,
+      "liquid": 29.3
+    },
+    {
+      "year": 1997,
+      "month": "August",
+      "solid": 44.4,
+      "gas": 43.1,
+      "eletric": 59.5,
+      "liquid": 30.5
+    },
+    {
+      "year": 1997,
+      "month": "September",
+      "solid": 44.3,
+      "gas": 42.1,
+      "eletric": 57.7,
+      "liquid": 29.8
+    },
+    {
+      "year": 1997,
+      "month": "October",
+      "solid": 45.9,
+      "gas": 42.1,
+      "eletric": 57.6,
+      "liquid": 31.3
+    },
+    {
+      "year": 1997,
+      "month": "November",
+      "solid": 45.9,
+      "gas": 42.1,
+      "eletric": 57.1,
+      "liquid": 31.2
+    },
+    {
+      "year": 1997,
+      "month": "December",
+      "solid": 45.9,
+      "gas": 42.1,
+      "eletric": 56.7,
+      "liquid": 30.3
+    }
+   },
+   "1998":{
+    {
+      "year": 1998,
+      "month": "January",
+      "solid": 45.9,
+      "gas": 41.6,
+      "eletric": 56.6,
+      "liquid": 28.1
+    },
+    {
+      "year": 1998,
+      "month": "February",
+      "solid": 45.9,
+      "gas": 41.6,
+      "eletric": 57.1,
+      "liquid": 26.6
+    },
+    {
+      "year": 1998,
+      "month": "March",
+      "solid": 45.9,
+      "gas": 41.4,
+      "eletric": 57.6,
+      "liquid": 25
+    },
+    {
+      "year": 1998,
+      "month": "April",
+      "solid": 45.9,
+      "gas": 41.4,
+      "eletric": 57.6,
+      "liquid": 25.2
+    },
+    {
+      "year": 1998,
+      "month": "May",
+      "solid": 44.8,
+      "gas": 41.4,
+      "eletric": 57,
+      "liquid": 25.3
+    },
+    {
+      "year": 1998,
+      "month": "June",
+      "solid": 44.9,
+      "gas": 41.3,
+      "eletric": 56.5,
+      "liquid": 24.5
+    },
+    {
+      "year": 1998,
+      "month": "July",
+      "solid": 45.1,
+      "gas": 41.4,
+      "eletric": 56.1,
+      "liquid": 23.7
+    },
+    {
+      "year": 1998,
+      "month": "August",
+      "solid": 45.1,
+      "gas": 41.4,
+      "eletric": 56.1,
+      "liquid": 23.2
+    },
+    {
+      "year": 1998,
+      "month": "September",
+      "solid": 45.4,
+      "gas": 41.4,
+      "eletric": 56.1,
+      "liquid": 24
+    },
+    {
+      "year": 1998,
+      "month": "October",
+      "solid": 46.9,
+      "gas": 41.4,
+      "eletric": 56.1,
+      "liquid": 24.9
+    },
+    {
+      "year": 1998,
+      "month": "November",
+      "solid": 47,
+      "gas": 41.4,
+      "eletric": 56.1,
+      "liquid": 24
+    },
+    {
+      "year": 1998,
+      "month": "December",
+      "solid": 47,
+      "gas": 41.4,
+      "eletric": 56.1,
+      "liquid": 22.3
+    }
+   },
+   "1999":{
+    {
+      "year": 1999,
+      "month": "January",
+      "solid": 47,
+      "gas": 41.6,
+      "eletric": 56.1,
+      "liquid": 22.5
+    },
+    {
+      "year": 1999,
+      "month": "February",
+      "solid": 47,
+      "gas": 41.6,
+      "eletric": 56.1,
+      "liquid": 22.2
+    },
+    {
+      "year": 1999,
+      "month": "March",
+      "solid": 47,
+      "gas": 41.7,
+      "eletric": 56.1,
+      "liquid": 23.3
+    },
+    {
+      "year": 1999,
+      "month": "April",
+      "solid": 47.1,
+      "gas": 41.3,
+      "eletric": 56.1,
+      "liquid": 25.8
+    },
+    {
+      "year": 1999,
+      "month": "May",
+      "solid": 46,
+      "gas": 41.3,
+      "eletric": 56,
+      "liquid": 25.5
+    },
+    {
+      "year": 1999,
+      "month": "June",
+      "solid": 45.9,
+      "gas": 41.3,
+      "eletric": 56,
+      "liquid": 25.5
+    },
+    {
+      "year": 1999,
+      "month": "July",
+      "solid": 45.9,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 28.8
+    },
+    {
+      "year": 1999,
+      "month": "August",
+      "solid": 45.9,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 29.4
+    },
+    {
+      "year": 1999,
+      "month": "September",
+      "solid": 46.3,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 31.4
+    },
+    {
+      "year": 1999,
+      "month": "October",
+      "solid": 47.4,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 31.4
+    },
+    {
+      "year": 1999,
+      "month": "November",
+      "solid": 47.6,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 33.2
+    },
+    {
+      "year": 1999,
+      "month": "December",
+      "solid": 47.7,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 38.1
+    }
+   },
+   "2000":{
+    {
+      "year": 2000,
+      "month": "January",
+      "solid": 47.8,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 37.3
+    },
+    {
+      "year": 2000,
+      "month": "February",
+      "solid": 47.7,
+      "gas": 41.3,
+      "eletric": 55.8,
+      "liquid": 37.5
+    },
+    {
+      "year": 2000,
+      "month": "March",
+      "solid": 47.8,
+      "gas": 41.3,
+      "eletric": 55.7,
+      "liquid": 38.8
+    },
+    {
+      "year": 2000,
+      "month": "April",
+      "solid": 47.7,
+      "gas": 40.2,
+      "eletric": 55.6,
+      "liquid": 37.7
+    },
+    {
+      "year": 2000,
+      "month": "May",
+      "solid": 46.5,
+      "gas": 40.2,
+      "eletric": 55.1,
+      "liquid": 36.8
+    },
+    {
+      "year": 2000,
+      "month": "June",
+      "solid": 46.2,
+      "gas": 40.2,
+      "eletric": 54.5,
+      "liquid": 37.9
+    },
+    {
+      "year": 2000,
+      "month": "July",
+      "solid": 46.1,
+      "gas": 40.2,
+      "eletric": 54.2,
+      "liquid": 40.9
+    },
+    {
+      "year": 2000,
+      "month": "August",
+      "solid": 46.2,
+      "gas": 40.2,
+      "eletric": 54.2,
+      "liquid": 41.2
+    },
+    {
+      "year": 2000,
+      "month": "September",
+      "solid": 47.1,
+      "gas": 40.2,
+      "eletric": 54.2,
+      "liquid": 52.2
+    },
+    {
+      "year": 2000,
+      "month": "October",
+      "solid": 48.6,
+      "gas": 40.4,
+      "eletric": 54.2,
+      "liquid": 55.2
+    },
+    {
+      "year": 2000,
+      "month": "November",
+      "solid": 49,
+      "gas": 40.4,
+      "eletric": 54.2,
+      "liquid": 51.4
+    },
+    {
+      "year": 2000,
+      "month": "December",
+      "solid": 49.1,
+      "gas": 40.4,
+      "eletric": 54.2,
+      "liquid": 48.8
+    }
+   },
+   "2001":{
+    {
+      "year": 2001,
+      "month": "January",
+      "solid": 49.3,
+      "gas": 40.4,
+      "eletric": 54.2,
+      "liquid": 42.4
+    },
+    {
+      "year": 2001,
+      "month": "February",
+      "solid": 49.1,
+      "gas": 40.5,
+      "eletric": 54.2,
+      "liquid": 43
+    },
+    {
+      "year": 2001,
+      "month": "March",
+      "solid": 49.1,
+      "gas": 40.5,
+      "eletric": 54.2,
+      "liquid": 41.6
+    },
+    {
+      "year": 2001,
+      "month": "April",
+      "solid": 49.1,
+      "gas": 42.1,
+      "eletric": 54.2,
+      "liquid": 40.3
+    },
+    {
+      "year": 2001,
+      "month": "May",
+      "solid": 48.6,
+      "gas": 42.2,
+      "eletric": 54.2,
+      "liquid": 42.1
+    },
+    {
+      "year": 2001,
+      "month": "June",
+      "solid": 48.4,
+      "gas": 42.2,
+      "eletric": 54.3,
+      "liquid": 42.2
+    },
+    {
+      "year": 2001,
+      "month": "July",
+      "solid": 48.1,
+      "gas": 42.2,
+      "eletric": 54.3,
+      "liquid": 40.4
+    },
+    {
+      "year": 2001,
+      "month": "August",
+      "solid": 48.2,
+      "gas": 42.2,
+      "eletric": 54.3,
+      "liquid": 39.2
+    },
+    {
+      "year": 2001,
+      "month": "September",
+      "solid": 50.6,
+      "gas": 42.2,
+      "eletric": 54.4,
+      "liquid": 46.6
+    },
+    {
+      "year": 2001,
+      "month": "October",
+      "solid": 51.9,
+      "gas": 42.2,
+      "eletric": 54.4,
+      "liquid": 38.5
+    },
+    {
+      "year": 2001,
+      "month": "November",
+      "solid": 52.2,
+      "gas": 42.2,
+      "eletric": 54.4,
+      "liquid": 34.9
+    },
+    {
+      "year": 2001,
+      "month": "December",
+      "solid": 52.3,
+      "gas": 42.2,
+      "eletric": 54.4,
+      "liquid": 32.8
+    }
+   },
+   "2002":{
+    {
+      "year": 2002,
+      "month": "January",
+      "solid": 52.3,
+      "gas": 44.1,
+      "eletric": 54.4,
+      "liquid": 34.3
+    },
+    {
+      "year": 2002,
+      "month": "February",
+      "solid": 52.3,
+      "gas": 44.1,
+      "eletric": 54.4,
+      "liquid": 33.2
+    },
+    {
+      "year": 2002,
+      "month": "March",
+      "solid": 52.4,
+      "gas": 44.2,
+      "eletric": 54.4,
+      "liquid": 35.2
+    },
+    {
+      "year": 2002,
+      "month": "April",
+      "solid": 52.4,
+      "gas": 44.3,
+      "eletric": 54.4,
+      "liquid": 36.5
+    },
+    {
+      "year": 2002,
+      "month": "May",
+      "solid": 51.6,
+      "gas": 44.3,
+      "eletric": 54.5,
+      "liquid": 36.7
+    },
+    {
+      "year": 2002,
+      "month": "June",
+      "solid": 51.4,
+      "gas": 44.5,
+      "eletric": 54.5,
+      "liquid": 35.7
+    },
+    {
+      "year": 2002,
+      "month": "July",
+      "solid": 51.4,
+      "gas": 44.5,
+      "eletric": 54.5,
+      "liquid": 35.2
+    },
+    {
+      "year": 2002,
+      "month": "August",
+      "solid": 51.3,
+      "gas": 44.5,
+      "eletric": 54.5,
+      "liquid": 34.8
+    },
+    {
+      "year": 2002,
+      "month": "September",
+      "solid": 52.2,
+      "gas": 44.5,
+      "eletric": 54.5,
+      "liquid": 39.3
+    },
+    {
+      "year": 2002,
+      "month": "October",
+      "solid": 53.2,
+      "gas": 44.5,
+      "eletric": 54.5,
+      "liquid": 39.7
+    },
+    {
+      "year": 2002,
+      "month": "November",
+      "solid": 53.7,
+      "gas": 44.5,
+      "eletric": 54.5,
+      "liquid": 36.1
+    },
+    {
+      "year": 2002,
+      "month": "December",
+      "solid": 53.6,
+      "gas": 44.6,
+      "eletric": 54.5,
+      "liquid": 40
+    }
+   },
+   "2003":{
+    {
+      "year": 2003,
+      "month": "January",
+      "solid": 53.5,
+      "gas": 44.6,
+      "eletric": 54.7,
+      "liquid": 41.9
+    },
+    {
+      "year": 2003,
+      "month": "February",
+      "solid": 53.5,
+      "gas": 44.6,
+      "eletric": 54.7,
+      "liquid": 49.2
+    },
+    {
+      "year": 2003,
+      "month": "March",
+      "solid": 53.6,
+      "gas": 44.6,
+      "eletric": 54.7,
+      "liquid": 50.7
+    },
+    {
+      "year": 2003,
+      "month": "April",
+      "solid": 53.2,
+      "gas": 44.7,
+      "eletric": 54.7,
+      "liquid": 37.9
+    },
+    {
+      "year": 2003,
+      "month": "May",
+      "solid": 52.7,
+      "gas": 45,
+      "eletric": 54.8,
+      "liquid": 35.7
+    },
+    {
+      "year": 2003,
+      "month": "June",
+      "solid": 52.6,
+      "gas": 45.3,
+      "eletric": 54.9,
+      "liquid": 35
+    },
+    {
+      "year": 2003,
+      "month": "July",
+      "solid": 52.6,
+      "gas": 45.4,
+      "eletric": 55.1,
+      "liquid": 36.2
+    },
+    {
+      "year": 2003,
+      "month": "August",
+      "solid": 52.6,
+      "gas": 45.5,
+      "eletric": 55.3,
+      "liquid": 37.7
+    },
+    {
+      "year": 2003,
+      "month": "September",
+      "solid": 53.3,
+      "gas": 45.5,
+      "eletric": 55.4,
+      "liquid": 37.2
+    },
+    {
+      "year": 2003,
+      "month": "October",
+      "solid": 54.4,
+      "gas": 45.6,
+      "eletric": 55.4,
+      "liquid": 40.4
+    },
+    {
+      "year": 2003,
+      "month": "November",
+      "solid": 54.5,
+      "gas": 45.8,
+      "eletric": 55.6,
+      "liquid": 40.2
+    },
+    {
+      "year": 2003,
+      "month": "December",
+      "solid": 54.5,
+      "gas": 45.9,
+      "eletric": 55.7,
+      "liquid": 42.1
+    }
+   },
+   "2004":{
+    {
+      "year": 2004,
+      "month": "January",
+      "solid": 54.7,
+      "gas": 46.2,
+      "eletric": 56,
+      "liquid": 41.3
+    },
+    {
+      "year": 2004,
+      "month": "February",
+      "solid": 54.9,
+      "gas": 46.7,
+      "eletric": 56.3,
+      "liquid": 40.2
+    },
+    {
+      "year": 2004,
+      "month": "March",
+      "solid": 54.8,
+      "gas": 47.4,
+      "eletric": 57,
+      "liquid": 40.7
+    },
+    {
+      "year": 2004,
+      "month": "April",
+      "solid": 54.8,
+      "gas": 47.8,
+      "eletric": 57.6,
+      "liquid": 44.2
+    },
+    {
+      "year": 2004,
+      "month": "May",
+      "solid": 54.4,
+      "gas": 47.9,
+      "eletric": 57.9,
+      "liquid": 47.7
+    },
+    {
+      "year": 2004,
+      "month": "June",
+      "solid": 54.3,
+      "gas": 48,
+      "eletric": 58.3,
+      "liquid": 44.9
+    },
+    {
+      "year": 2004,
+      "month": "July",
+      "solid": 54.6,
+      "gas": 48.2,
+      "eletric": 58.4,
+      "liquid": 45.3
+    },
+    {
+      "year": 2004,
+      "month": "August",
+      "solid": 55.5,
+      "gas": 48.3,
+      "eletric": 58.5,
+      "liquid": 49.7
+    },
+    {
+      "year": 2004,
+      "month": "September",
+      "solid": 56.9,
+      "gas": 48.4,
+      "eletric": 58.8,
+      "liquid": 52.2
+    },
+    {
+      "year": 2004,
+      "month": "October",
+      "solid": 59.1,
+      "gas": 49.1,
+      "eletric": 59.4,
+      "liquid": 59.2
+    },
+    {
+      "year": 2004,
+      "month": "November",
+      "solid": 59.8,
+      "gas": 50.7,
+      "eletric": 60.4,
+      "liquid": 55
+    },
+    {
+      "year": 2004,
+      "month": "December",
+      "solid": 60.4,
+      "gas": 52.4,
+      "eletric": 61.6,
+      "liquid": 51
+    }
+   },
+   "2005":{
+    {
+      "year": 2005,
+      "month": "January",
+      "solid": 60.6,
+      "gas": 53.3,
+      "eletric": 62.5,
+      "liquid": 51.8
+    },
+    {
+      "year": 2005,
+      "month": "February",
+      "solid": 61.1,
+      "gas": 53.6,
+      "eletric": 63,
+      "liquid": 51.8
+    },
+    {
+      "year": 2005,
+      "month": "March",
+      "solid": 61.2,
+      "gas": 53.7,
+      "eletric": 63.4,
+      "liquid": 59.2
+    },
+    {
+      "year": 2005,
+      "month": "April",
+      "solid": 61.2,
+      "gas": 54,
+      "eletric": 63.6,
+      "liquid": 61.3
+    },
+    {
+      "year": 2005,
+      "month": "May",
+      "solid": 60.6,
+      "gas": 54.1,
+      "eletric": 63.8,
+      "liquid": 57.9
+    },
+    {
+      "year": 2005,
+      "month": "June",
+      "solid": 60.4,
+      "gas": 54.4,
+      "eletric": 63.9,
+      "liquid": 63.7
+    },
+    {
+      "year": 2005,
+      "month": "July",
+      "solid": 60.3,
+      "gas": 54.4,
+      "eletric": 63.9,
+      "liquid": 68.1
+    },
+    {
+      "year": 2005,
+      "month": "August",
+      "solid": 61.1,
+      "gas": 54.5,
+      "eletric": 64,
+      "liquid": 72.3
+    },
+    {
+      "year": 2005,
+      "month": "September",
+      "solid": 61.7,
+      "gas": 55.1,
+      "eletric": 64.8,
+      "liquid": 73.8
+    },
+    {
+      "year": 2005,
+      "month": "October",
+      "solid": 64.4,
+      "gas": 57.3,
+      "eletric": 66.2,
+      "liquid": 76.8
+    },
+    {
+      "year": 2005,
+      "month": "November",
+      "solid": 65,
+      "gas": 59.4,
+      "eletric": 67.6,
+      "liquid": 68.4
+    },
+    {
+      "year": 2005,
+      "month": "December",
+      "solid": 65.2,
+      "gas": 60.6,
+      "eletric": 68.2,
+      "liquid": 71
+    }
+   },
+   "2006":{
+    {
+      "year": 2006,
+      "month": "January",
+      "solid": 65.3,
+      "gas": 61.1,
+      "eletric": 68.9,
+      "liquid": 72.3
+    },
+    {
+      "year": 2006,
+      "month": "February",
+      "solid": 65.3,
+      "gas": 61.3,
+      "eletric": 69.7,
+      "liquid": 73.7
+    },
+    {
+      "year": 2006,
+      "month": "March",
+      "solid": 65.4,
+      "gas": 63.3,
+      "eletric": 71.6,
+      "liquid": 74.5
+    },
+    {
+      "year": 2006,
+      "month": "April",
+      "solid": 65.5,
+      "gas": 67.3,
+      "eletric": 74.6,
+      "liquid": 76.6
+    },
+    {
+      "year": 2006,
+      "month": "May",
+      "solid": 66.2,
+      "gas": 71.4,
+      "eletric": 77.7,
+      "liquid": 77.1
+    },
+    {
+      "year": 2006,
+      "month": "June",
+      "solid": 64.9,
+      "gas": 73.4,
+      "eletric": 79.6,
+      "liquid": 77
+    },
+    {
+      "year": 2006,
+      "month": "July",
+      "solid": 64.8,
+      "gas": 74.1,
+      "eletric": 80.4,
+      "liquid": 79.5
+    },
+    {
+      "year": 2006,
+      "month": "August",
+      "solid": 65.4,
+      "gas": 74.9,
+      "eletric": 81,
+      "liquid": 77.8
+    },
+    {
+      "year": 2006,
+      "month": "September",
+      "solid": 66.2,
+      "gas": 76.8,
+      "eletric": 82.1,
+      "liquid": 73.7
+    },
+    {
+      "year": 2006,
+      "month": "October",
+      "solid": 69.6,
+      "gas": 80.5,
+      "eletric": 84.3,
+      "liquid": 67.6
+    },
+    {
+      "year": 2006,
+      "month": "November",
+      "solid": 70.4,
+      "gas": 83,
+      "eletric": 85.9,
+      "liquid": 64.5
+    },
+    {
+      "year": 2006,
+      "month": "December",
+      "solid": 70.4,
+      "gas": 84.6,
+      "eletric": 86.9,
+      "liquid": 67.6
+    }
+   },
+   "2007":{
+    {
+      "year": 2007,
+      "month": "January",
+      "solid": 70.5,
+      "gas": 84.8,
+      "eletric": 87.3,
+      "liquid": 62.9
+    },
+    {
+      "year": 2007,
+      "month": "February",
+      "solid": 70.7,
+      "gas": 85.1,
+      "eletric": 87.6,
+      "liquid": 64.3
+    },
+    {
+      "year": 2007,
+      "month": "March",
+      "solid": 70.7,
+      "gas": 84.4,
+      "eletric": 87.6,
+      "liquid": 66.6
+    },
+    {
+      "year": 2007,
+      "month": "April",
+      "solid": 70.7,
+      "gas": 82.1,
+      "eletric": 86.8,
+      "liquid": 69.3
+    },
+    {
+      "year": 2007,
+      "month": "May",
+      "solid": 70.4,
+      "gas": 79.4,
+      "eletric": 85.8,
+      "liquid": 69
+    },
+    {
+      "year": 2007,
+      "month": "June",
+      "solid": 70,
+      "gas": 77.2,
+      "eletric": 84.6,
+      "liquid": 70.7
+    },
+    {
+      "year": 2007,
+      "month": "July",
+      "solid": 69.9,
+      "gas": 75.5,
+      "eletric": 83.6,
+      "liquid": 72.6
+    },
+    {
+      "year": 2007,
+      "month": "August",
+      "solid": 70,
+      "gas": 74.4,
+      "eletric": 83.1,
+      "liquid": 71.1
+    },
+    {
+      "year": 2007,
+      "month": "September",
+      "solid": 70.8,
+      "gas": 73.9,
+      "eletric": 83.1,
+      "liquid": 75.5
+    },
+    {
+      "year": 2007,
+      "month": "October",
+      "solid": 72.9,
+      "gas": 73.6,
+      "eletric": 83,
+      "liquid": 78.3
+    },
+    {
+      "year": 2007,
+      "month": "November",
+      "solid": 74.2,
+      "gas": 73.6,
+      "eletric": 83,
+      "liquid": 88.8
+    },
+    {
+      "year": 2007,
+      "month": "December",
+      "solid": 75.7,
+      "gas": 73.7,
+      "eletric": 83,
+      "liquid": 89.3
+    }
+   },
+   "2008":{
+    {
+      "year": 2008,
+      "month": "January",
+      "solid": 76.6,
+      "gas": 74.1,
+      "eletric": 83.4,
+      "liquid": 92.7
+    },
+    {
+      "year": 2008,
+      "month": "February",
+      "solid": 77,
+      "gas": 83.4,
+      "eletric": 92.2,
+      "liquid": 92.9
+    },
+    {
+      "year": 2008,
+      "month": "March",
+      "solid": 77.3,
+      "gas": 83.4,
+      "eletric": 92.2,
+      "liquid": 106.1
+    },
+    {
+      "year": 2008,
+      "month": "April",
+      "solid": 77.5,
+      "gas": 85.1,
+      "eletric": 94.1,
+      "liquid": 117.3
+    },
+    {
+      "year": 2008,
+      "month": "May",
+      "solid": 79.1,
+      "gas": 85.1,
+      "eletric": 94.1,
+      "liquid": 127.2
+    },
+    {
+      "year": 2008,
+      "month": "June",
+      "solid": 80.7,
+      "gas": 85.1,
+      "eletric": 94.1,
+      "liquid": 132.9
+    },
+    {
+      "year": 2008,
+      "month": "July",
+      "solid": 81.5,
+      "gas": 85.2,
+      "eletric": 94.1,
+      "liquid": 139.6
+    },
+    {
+      "year": 2008,
+      "month": "August",
+      "solid": 82.4,
+      "gas": 95.1,
+      "eletric": 98.1,
+      "liquid": 118.3
+    },
+    {
+      "year": 2008,
+      "month": "September",
+      "solid": 89.8,
+      "gas": 110.8,
+      "eletric": 108.2,
+      "liquid": 115.3
+    },
+    {
+      "year": 2008,
+      "month": "October",
+      "solid": 98.2,
+      "gas": 111.1,
+      "eletric": 109,
+      "liquid": 98.5
+    },
+    {
+      "year": 2008,
+      "month": "November",
+      "solid": 99,
+      "gas": 110.9,
+      "eletric": 109,
+      "liquid": 90.5
+    },
+    {
+      "year": 2008,
+      "month": "December",
+      "solid": 99.9,
+      "gas": 110.9,
+      "eletric": 109,
+      "liquid": 80.5
+    }
+   },
+   "2009":{
+    {
+      "year": 2009,
+      "month": "January",
+      "solid": 101,
+      "gas": 110.9,
+      "eletric": 108.7,
+      "liquid": 79.3
+    },
+    {
+      "year": 2009,
+      "month": "February",
+      "solid": 101.1,
+      "gas": 110.9,
+      "eletric": 108.7,
+      "liquid": 74.9
+    },
+    {
+      "year": 2009,
+      "month": "March",
+      "solid": 101,
+      "gas": 106.2,
+      "eletric": 108.2,
+      "liquid": 67.5
+    },
+    {
+      "year": 2009,
+      "month": "April",
+      "solid": 101,
+      "gas": 105.1,
+      "eletric": 102.7,
+      "liquid": 71.5
+    },
+    {
+      "year": 2009,
+      "month": "May",
+      "solid": 99.3,
+      "gas": 105.1,
+      "eletric": 100.5,
+      "liquid": 71.6
+    },
+    {
+      "year": 2009,
+      "month": "June",
+      "solid": 98.5,
+      "gas": 105.1,
+      "eletric": 100.5,
+      "liquid": 79.2
+    },
+    {
+      "year": 2009,
+      "month": "July",
+      "solid": 97.7,
+      "gas": 104.6,
+      "eletric": 100.5,
+      "liquid": 70.9
+    },
+    {
+      "year": 2009,
+      "month": "August",
+      "solid": 98.3,
+      "gas": 104.6,
+      "eletric": 100.5,
+      "liquid": 79
+    },
+    {
+      "year": 2009,
+      "month": "September",
+      "solid": 98.5,
+      "gas": 104.6,
+      "eletric": 100.5,
+      "liquid": 77.1
+    },
+    {
+      "year": 2009,
+      "month": "October",
+      "solid": 100.6,
+      "gas": 104.5,
+      "eletric": 100.1,
+      "liquid": 82
+    },
+    {
+      "year": 2009,
+      "month": "November",
+      "solid": 101.4,
+      "gas": 104.5,
+      "eletric": 100.1,
+      "liquid": 84.3
+    },
+    {
+      "year": 2009,
+      "month": "December",
+      "solid": 101.5,
+      "gas": 104.5,
+      "eletric": 100.1,
+      "liquid": 86.2
+    }
+   },
+   "2010":{
+    {
+      "year": 2010,
+      "month": "January",
+      "solid": 101.4,
+      "gas": 104.6,
+      "eletric": 100.1,
+      "liquid": 103.6
+    },
+    {
+      "year": 2010,
+      "month": "February",
+      "solid": 101.5,
+      "gas": 101.6,
+      "eletric": 100.1,
+      "liquid": 90.6
+    },
+    {
+      "year": 2010,
+      "month": "March",
+      "solid": 101.5,
+      "gas": 101.6,
+      "eletric": 100.1,
+      "liquid": 97
+    },
+    {
+      "year": 2010,
+      "month": "April",
+      "solid": 101.5,
+      "gas": 98.7,
+      "eletric": 99.9,
+      "liquid": 100.1
+    },
+    {
+      "year": 2010,
+      "month": "May",
+      "solid": 99.1,
+      "gas": 98.7,
+      "eletric": 99.9,
+      "liquid": 100.1
+    },
+    {
+      "year": 2010,
+      "month": "June",
+      "solid": 97.8,
+      "gas": 98.7,
+      "eletric": 99.9,
+      "liquid": 96.8
+    },
+    {
+      "year": 2010,
+      "month": "July",
+      "solid": 96.9,
+      "gas": 98.7,
+      "eletric": 99.9,
+      "liquid": 95
+    },
+    {
+      "year": 2010,
+      "month": "August",
+      "solid": 97.6,
+      "gas": 98.7,
+      "eletric": 99.9,
+      "liquid": 94.8
+    },
+    {
+      "year": 2010,
+      "month": "September",
+      "solid": 98.1,
+      "gas": 98.7,
+      "eletric": 99.9,
+      "liquid": 94.5
+    },
+    {
+      "year": 2010,
+      "month": "October",
+      "solid": 101,
+      "gas": 98.7,
+      "eletric": 99.6,
+      "liquid": 98.2
+    },
+    {
+      "year": 2010,
+      "month": "November",
+      "solid": 101.6,
+      "gas": 98.7,
+      "eletric": 99.6,
+      "liquid": 101.6
+    },
+    {
+      "year": 2010,
+      "month": "December",
+      "solid": 102.2,
+      "gas": 103.2,
+      "eletric": 100.9,
+      "liquid": 128.1
+    }
+   },
+   "2011":{
+    {
+      "year": 2011,
+      "month": "January",
+      "solid": 103.1,
+      "gas": 104.1,
+      "eletric": 101.7,
+      "liquid": 125.5
+    },
+    {
+      "year": 2011,
+      "month": "February",
+      "solid": 104,
+      "gas": 104.5,
+      "eletric": 103.2,
+      "liquid": 119.8
+    },
+    {
+      "year": 2011,
+      "month": "March",
+      "solid": 103.7,
+      "gas": 105,
+      "eletric": 104,
+      "liquid": 130.4
+    },
+    {
+      "year": 2011,
+      "month": "April",
+      "solid": 104.1,
+      "gas": 105,
+      "eletric": 104,
+      "liquid": 135.7
+    },
+    {
+      "year": 2011,
+      "month": "May",
+      "solid": 102.7,
+      "gas": 105,
+      "eletric": 104,
+      "liquid": 125.4
+    },
+    {
+      "year": 2011,
+      "month": "June",
+      "solid": 102.5,
+      "gas": 105,
+      "eletric": 104,
+      "liquid": 128.7
+    },
+    {
+      "year": 2011,
+      "month": "July",
+      "solid": 102.7,
+      "gas": 105,
+      "eletric": 104,
+      "liquid": 124.8
+    },
+    {
+      "year": 2011,
+      "month": "August",
+      "solid": 102.8,
+      "gas": 106.9,
+      "eletric": 105,
+      "liquid": 120.1
+    },
+    {
+      "year": 2011,
+      "month": "September",
+      "solid": 103.4,
+      "gas": 120.7,
+      "eletric": 112.8,
+      "liquid": 123.8
+    },
+    {
+      "year": 2011,
+      "month": "October",
+      "solid": 109.1,
+      "gas": 122.4,
+      "eletric": 114.5,
+      "liquid": 123.2
+    },
+    {
+      "year": 2011,
+      "month": "November",
+      "solid": 109.9,
+      "gas": 123.6,
+      "eletric": 115.1,
+      "liquid": 130.9
+    },
+    {
+      "year": 2011,
+      "month": "December",
+      "solid": 110.1,
+      "gas": 123.6,
+      "eletric": 115.1,
+      "liquid": 131.4
+    }
+   },
+   "2012":{
+    {
+      "year": 2012,
+      "month": "January",
+      "solid": 110.2,
+      "gas": 123.6,
+      "eletric": 115.1,
+      "liquid": 131.6
+    },
+    {
+      "year": 2012,
+      "month": "February",
+      "solid": 109.5,
+      "gas": 122.4,
+      "eletric": 113.7,
+      "liquid": 134.1
+    },
+    {
+      "year": 2012,
+      "month": "March",
+      "solid": 110,
+      "gas": 121.9,
+      "eletric": 112.4,
+      "liquid": 136.4
+    },
+    {
+      "year": 2012,
+      "month": "April",
+      "solid": 110,
+      "gas": 121.2,
+      "eletric": 112.4,
+      "liquid": 134.8
+    },
+    {
+      "year": 2012,
+      "month": "May",
+      "solid": 107.7,
+      "gas": 121.2,
+      "eletric": 112.3,
+      "liquid": 127.3
+    },
+    {
+      "year": 2012,
+      "month": "June",
+      "solid": 106.8,
+      "gas": 121.2,
+      "eletric": 112.3,
+      "liquid": 117.4
+    },
+    {
+      "year": 2012,
+      "month": "July",
+      "solid": 107.2,
+      "gas": 121.2,
+      "eletric": 112.3,
+      "liquid": 120.4
+    },
+    {
+      "year": 2012,
+      "month": "August",
+      "solid": 107,
+      "gas": 121.2,
+      "eletric": 112.3,
+      "liquid": 128.9
+    },
+    {
+      "year": 2012,
+      "month": "September",
+      "solid": 107.5,
+      "gas": 121.2,
+      "eletric": 112.3,
+      "liquid": 132.4
+    },
+    {
+      "year": 2012,
+      "month": "October",
+      "solid": 108.4,
+      "gas": 121.2,
+      "eletric": 111.8,
+      "liquid": 133.9
+    },
+    {
+      "year": 2012,
+      "month": "November",
+      "solid": 108.9,
+      "gas": 123.5,
+      "eletric": 113.8,
+      "liquid": 130.7
+    },
+    {
+      "year": 2012,
+      "month": "December",
+      "solid": 109.4,
+      "gas": 130.1,
+      "eletric": 119.6,
+      "liquid": 137.5
+    }
+   },
+   "2013":{
+    {
+      "year": 2013,
+      "month": "January",
+      "solid": 109.5,
+      "gas": 129.9,
+      "eletric": 119.6,
+      "liquid": 134.7
+    },
+    {
+      "year": 2013,
+      "month": "February",
+      "solid": 109.8,
+      "gas": 131.3,
+      "eletric": 121,
+      "liquid": 143.2
+    },
+    {
+      "year": 2013,
+      "month": "March",
+      "solid": 109.2,
+      "gas": 131.3,
+      "eletric": 121,
+      "liquid": 141.5
+    },
+    {
+      "year": 2013,
+      "month": "April",
+      "solid": 109.2,
+      "gas": 131.3,
+      "eletric": 121,
+      "liquid": 133.9
+    },
+    {
+      "year": 2013,
+      "month": "May",
+      "solid": 109.4,
+      "gas": 131.3,
+      "eletric": 121,
+      "liquid": 125
+    },
+    {
+      "year": 2013,
+      "month": "June",
+      "solid": 109.3,
+      "gas": 131.3,
+      "eletric": 121,
+      "liquid": 124.7
+    },
+    {
+      "year": 2013,
+      "month": "July",
+      "solid": 109.6,
+      "gas": 131.3,
+      "eletric": 121.4,
+      "liquid": 128
+    },
+    {
+      "year": 2013,
+      "month": "August",
+      "solid": 109.5,
+      "gas": 131.3,
+      "eletric": 121.4,
+      "liquid": 128
+    },
+    {
+      "year": 2013,
+      "month": "September",
+      "solid": 110.1,
+      "gas": 131.3,
+      "eletric": 121.4,
+      "liquid": 131.1
+    },
+    {
+      "year": 2013,
+      "month": "October",
+      "solid": 111.4,
+      "gas": 131.3,
+      "eletric": 121.4,
+      "liquid": 127.1
+    },
+    {
+      "year": 2013,
+      "month": "November",
+      "solid": 112.4,
+      "gas": 131.3,
+      "eletric": 121.4,
+      "liquid": 124.7
+    },
+    {
+      "year": 2013,
+      "month": "December",
+      "solid": 112.6,
+      "gas": 140.1,
+      "eletric": 129.3,
+      "liquid": 128.4
+    }
+   },
+   "2014":{
+    {
+      "year": 2014,
+      "month": "January",
+      "solid": 113.3,
+      "gas": 138.8,
+      "eletric": 129.1,
+      "liquid": 125.1
+    },
+    {
+      "year": 2014,
+      "month": "February",
+      "solid": 113.3,
+      "gas": 139.1,
+      "eletric": 129.3,
+      "liquid": 125.3
+    },
+    {
+      "year": 2014,
+      "month": "March",
+      "solid": 113.2,
+      "gas": 138.7,
+      "eletric": 129.1,
+      "liquid": 121.7
+    },
+    {
+      "year": 2014,
+      "month": "April",
+      "solid": 113.4,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 119.6
+    },
+    {
+      "year": 2014,
+      "month": "May",
+      "solid": 112.5,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 118.3
+    },
+    {
+      "year": 2014,
+      "month": "June",
+      "solid": 112.3,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 117.5
+    },
+    {
+      "year": 2014,
+      "month": "July",
+      "solid": 112.1,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 116.4
+    },
+    {
+      "year": 2014,
+      "month": "August",
+      "solid": 111.9,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 116.7
+    },
+    {
+      "year": 2014,
+      "month": "September",
+      "solid": 112.5,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 115
+    },
+    {
+      "year": 2014,
+      "month": "October",
+      "solid": 114.6,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 109.5
+    },
+    {
+      "year": 2014,
+      "month": "November",
+      "solid": 114.8,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 108.1
+    },
+    {
+      "year": 2014,
+      "month": "December",
+      "solid": 114.8,
+      "gas": 138,
+      "eletric": 128.3,
+      "liquid": 99.3
+    }
+   },
+   "2015":{
+    {
+      "year": 2015,
+      "month": "January",
+      "solid": 114.6,
+      "gas": 137.3,
+      "eletric": 128.3,
+      "liquid": 86.7
+    },
+    {
+      "year": 2015,
+      "month": "February",
+      "solid": 114.6,
+      "gas": 136.4,
+      "eletric": 128.3,
+      "liquid": 91
+    },
+    {
+      "year": 2015,
+      "month": "March",
+      "solid": 114.8,
+      "gas": 132.8,
+      "eletric": 128.3,
+      "liquid": 88.3
+    },
+    {
+      "year": 2015,
+      "month": "April",
+      "solid": 114.9,
+      "gas": 132.7,
+      "eletric": 128,
+      "liquid": 88.5
+    },
+    {
+      "year": 2015,
+      "month": "May",
+      "solid": 112.5,
+      "gas": 131.9,
+      "eletric": 128,
+      "liquid": 89.8
+    },
+    {
+      "year": 2015,
+      "month": "June",
+      "solid": 112.1,
+      "gas": 131.9,
+      "eletric": 127.9,
+      "liquid": 87.4
+    },
+    {
+      "year": 2015,
+      "month": "July",
+      "solid": 112,
+      "gas": 131.9,
+      "eletric": 127.9,
+      "liquid": 83.7
+    },
+    {
+      "year": 2015,
+      "month": "August",
+      "solid": 112,
+      "gas": 131.9,
+      "eletric": 127.9,
+      "liquid": 74.4
+    },
+    {
+      "year": 2015,
+      "month": "September",
+      "solid": 112.4,
+      "gas": 129,
+      "eletric": 127.9,
+      "liquid": 75.6
+    },
+    {
+      "year": 2015,
+      "month": "October",
+      "solid": 113.8,
+      "gas": 129,
+      "eletric": 127.9,
+      "liquid": 75.6
+    },
+    {
+      "year": 2015,
+      "month": "November",
+      "solid": 114.1,
+      "gas": 129,
+      "eletric": 127.9,
+      "liquid": 73
+    },
+    {
+      "year": 2015,
+      "month": "December",
+      "solid": 114.1,
+      "gas": 129,
+      "eletric": 127.9,
+      "liquid": 67.3
+    }
+   },
+   "2016":{
+    {
+      "year": 2016,
+      "month": "January",
+      "solid": 114.1,
+      "gas": 129,
+      "eletric": 127.9,
+      "liquid": 61.2
+    },
+    {
+      "year": 2016,
+      "month": "February",
+      "solid": 114.2,
+      "gas": 128.1,
+      "eletric": 127.9,
+      "liquid": 58.6
+    },
+    {
+      "year": 2016,
+      "month": "March",
+      "solid": 114,
+      "gas": 124.8,
+      "eletric": 127.9,
+      "liquid": 63.2
+    },
+    {
+      "year": 2016,
+      "month": "April",
+      "solid": 114.2,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 64.7
+    },
+    {
+      "year": 2016,
+      "month": "May",
+      "solid": 112.8,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 68.7
+    },
+    {
+      "year": 2016,
+      "month": "June",
+      "solid": 111.9,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 74.2
+    },
+    {
+      "year": 2016,
+      "month": "July",
+      "solid": 111,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 74.4
+    },
+    {
+      "year": 2016,
+      "month": "August",
+      "solid": 111.1,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 72.9
+    },
+    {
+      "year": 2016,
+      "month": "September",
+      "solid": 112,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 76.2
+    },
+    {
+      "year": 2016,
+      "month": "October",
+      "solid": 114,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 86.9
+    },
+    {
+      "year": 2016,
+      "month": "November",
+      "solid": 114.8,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 83.4
+    },
+    {
+      "year": 2016,
+      "month": "December",
+      "solid": 115.4,
+      "gas": 123.1,
+      "eletric": 127.7,
+      "liquid": 90.6
+    }
+   },
+   "2017":{
+    {
+      "year": 2017,
+      "month": "January",
+      "solid": 115.7,
+      "gas": 122.6,
+      "eletric": 127.7,
+      "liquid": 96
+    },
+    {
+      "year": 2017,
+      "month": "February",
+      "solid": 116.2,
+      "gas": 122.6,
+      "eletric": 127.7,
+      "liquid": 94.5
+    },
+    {
+      "year": 2017,
+      "month": "March",
+      "solid": 116.2,
+      "gas": 122.6,
+      "eletric": 128.9,
+      "liquid": 89.8
+    },
+    {
+      "year": 2017,
+      "month": "April",
+      "solid": 116.3,
+      "gas": 121.9,
+      "eletric": 132.1,
+      "liquid": 89.9
+    },
+    {
+      "year": 2017,
+      "month": "May",
+      "solid": 114.8,
+      "gas": 122.4,
+      "eletric": 137.5,
+      "liquid": 83.7
+    },
+    {
+      "year": 2017,
+      "month": "June",
+      "solid": 114.5,
+      "gas": 122.4,
+      "eletric": 137.5,
+      "liquid": 82.2
+    },
+    {
+      "year": 2017,
+      "month": "July",
+      "solid": 114.4,
+      "gas": 123.1,
+      "eletric": 139.2,
+      "liquid": 81.5
+    },
+    {
+      "year": 2017,
+      "month": "August",
+      "solid": 114.4,
+      "gas": 123.1,
+      "eletric": 139.2,
+      "liquid": 85.3
+    },
+    {
+      "year": 2017,
+      "month": "September",
+      "solid": 114.4,
+      "gas": 123.1,
+      "eletric": 139.2,
+      "liquid": 88.8
+    },
+    {
+      "year": 2017,
+      "month": "October",
+      "solid": 116.8,
+      "gas": 123.1,
+      "eletric": 142.3,
+      "liquid": 89.7
+    },
+    {
+      "year": 2017,
+      "month": "November",
+      "solid": 118,
+      "gas": 123.2,
+      "eletric": 142.3,
+      "liquid": 98
+    },
+    {
+      "year": 2017,
+      "month": "December",
+      "solid": 118.4,
+      "gas": 123.2,
+      "eletric": 142.3,
+      "liquid": 105.6
+    }
+   },
+   "2018":{
+    {
+      "year": 2018,
+      "month": "January",
+      "solid": 118.6,
+      "gas": 123.4,
+      "eletric": 142.3,
+      "liquid": 106.9
+    },
+    {
+      "year": 2018,
+      "month": "February",
+      "solid": 118.6,
+      "gas": 123.4,
+      "eletric": 142.3,
+      "liquid": 105.1
+    },
+    {
+      "year": 2018,
+      "month": "March",
+      "solid": 119,
+      "gas": 123.4,
+      "eletric": 142.3,
+      "liquid": 110.5
+    },
+    {
+      "year": 2018,
+      "month": "April",
+      "solid": 118.8,
+      "gas": 123.7,
+      "eletric": 143.5,
+      "liquid": 110.9
+    },
+    {
+      "year": 2018,
+      "month": "May",
+      "solid": 115.6,
+      "gas": 123.9,
+      "eletric": 143.7,
+      "liquid": 114.8
+    },
+    {
+      "year": 2018,
+      "month": "June",
+      "solid": 115.3,
+      "gas": 126.9,
+      "eletric": 146.9,
+      "liquid": 113.7
+    },
+    {
+      "year": 2018,
+      "month": "July",
+      "solid": 116,
+      "gas": 128.4,
+      "eletric": 149.4,
+      "liquid": 110.8
+    },
+    {
+      "year": 2018,
+      "month": "August",
+      "solid": 116.2,
+      "gas": 128.4,
+      "eletric": 149.4,
+      "liquid": 112.2
+    },
+    {
+      "year": 2018,
+      "month": "September",
+      "solid": 115.8,
+      "gas": 129.8,
+      "eletric": 152.1,
+      "liquid": 117.7
+    },
+    {
+      "year": 2018,
+      "month": "October",
+      "solid": 120,
+      "gas": 132.5,
+      "eletric": 155.2,
+      "liquid": 126.2
+    },
+    {
+      "year": 2018,
+      "month": "November",
+      "solid": 119.1,
+      "gas": 132.5,
+      "eletric": 155.2,
+      "liquid": 119.1
+    },
+    {
+      "year": 2018,
+      "month": "December",
+      "solid": 121.5,
+      "gas": 132.5,
+      "eletric": 155.2,
+      "liquid": 111.6
+    }
+   },
+   "2019":{
+    {
+      "year": 2019,
+      "month": "January",
+      "solid": 121.5,
+      "gas": 121.2,
+      "eletric": 147.6,
+      "liquid": 107.7
+    },
+    {
+      "year": 2019,
+      "month": "February",
+      "solid": 121.6,
+      "gas": 121.4,
+      "eletric": 147.8,
+      "liquid": 110.1
+    },
+    {
+      "year": 2019,
+      "month": "March",
+      "solid": 121.9,
+      "gas": 121.4,
+      "eletric": 147.8,
+      "liquid": 110.9
+    },
+    {
+      "year": 2019,
+      "month": "April",
+      "solid": 119.9,
+      "gas": 132.6,
+      "eletric": 163.8,
+      "liquid": 111.4
+    },
+    {
+      "year": 2019,
+      "month": "May",
+      "solid": 120.9,
+      "gas": 132.6,
+      "eletric": 163.8,
+      "liquid": 113.2
+    },
+    {
+      "year": 2019,
+      "month": "June",
+      "solid": 121.6,
+      "gas": 132.6,
+      "eletric": 163.8,
+      "liquid": 108.7
+    },
+    {
+      "year": 2019,
+      "month": "July",
+      "solid": 121.3,
+      "gas": 132.6,
+      "eletric": 163.8,
+      "liquid": 108
+    },
+    {
+      "year": 2019,
+      "month": "August",
+      "solid": 120.5,
+      "gas": 132.6,
+      "eletric": 163.8,
+      "liquid": 109.7
+    },
+    {
+      "year": 2019,
+      "month": "September",
+      "solid": 121,
+      "gas": 132.6,
+      "eletric": 163.8,
+      "liquid": 109.8
+    },
+    {
+      "year": 2019,
+      "month": "October",
+      "solid": 122.8,
+      "gas": 121,
+      "eletric": 160.3,
+      "liquid": 113.8
+    },
+    {
+      "year": 2019,
+      "month": "November",
+      "solid": 125.8,
+      "gas": 121,
+      "eletric": 160.3,
+      "liquid": 110.3
+    },
+    {
+      "year": 2019,
+      "month": "December",
+      "solid": 126.4,
+      "gas": 121,
+      "eletric": 160.3,
+      "liquid": 110.4
+    }
+   },
+   "2020":{
+    {
+      "year": 2020,
+      "month": "January",
+      "solid": 125.3,
+      "gas": 121,
+      "eletric": 160.3,
+      "liquid": 114.1
+    },
+    {
+      "year": 2020,
+      "month": "February",
+      "solid": 126.7,
+      "gas": 121,
+      "eletric": 160.3,
+      "liquid": 101.5
+    },
+    {
+      "year": 2020,
+      "month": "March",
+      "solid": 126.7,
+      "gas": 121,
+      "eletric": 160.3,
+      "liquid": 83.4
+    },
+    {
+      "year": 2020,
+      "month": "April",
+      "solid": 126.6,
+      "gas": 116.6,
+      "eletric": 160.6,
+      "liquid": 64.8
+    },
+    {
+      "year": 2020,
+      "month": "May",
+      "solid": 126.6,
+      "gas": 116.8,
+      "eletric": 160.6,
+      "liquid": 60.7
+    },
+    {
+      "year": 2020,
+      "month": "June",
+      "solid": 126.4,
+      "gas": 116.8,
+      "eletric": 160.6,
+      "liquid": 70.9
+    },
+    {
+      "year": 2020,
+      "month": "July",
+      "solid": 126.9,
+      "gas": 116.6,
+      "eletric": 160.4,
+      "liquid": 71.5
+    },
+    {
+      "year": 2020,
+      "month": "August",
+      "solid": 125.9,
+      "gas": 116.6,
+      "eletric": 160.4,
+      "liquid": 71.3
+    },
+    {
+      "year": 2020,
+      "month": "September",
+      "solid": 127,
+      "gas": 116.6,
+      "eletric": 160.4,
+      "liquid": 68.3
+    },
+    {
+      "year": 2020,
+      "month": "October",
+      "solid": 128.8,
+      "gas": 102.4,
+      "eletric": 155.2,
+      "liquid": 71.3
+    },
+    {
+      "year": 2020,
+      "month": "November",
+      "solid": 130.6,
+      "gas": 102.4,
+      "eletric": 155.2,
+      "liquid": 67.5
+    },
+    {
+      "year": 2020,
+      "month": "December",
+      "solid": 130.2,
+      "gas": 102.4,
+      "eletric": 155.2,
+      "liquid": 79.6
+    }
+   },
+   "2021":{
+    {
+      "year": 2021,
+      "month": "January",
+      "solid": 130.3,
+      "gas": 102.4,
+      "eletric": 155.2,
+      "liquid": 85.7
+    },
+    {
+      "year": 2021,
+      "month": "February",
+      "solid": 130.1,
+      "gas": 102.4,
+      "eletric": 155.2,
+      "liquid": 92.2
+    },
+    {
+      "year": 2021,
+      "month": "March",
+      "solid": 130.3,
+      "gas": 102.4,
+      "eletric": 155.2,
+      "liquid": 94.8
+    },
+    {
+      "year": 2021,
+      "month": "April",
+      "solid": 130.4,
+      "gas": 112,
+      "eletric": 169.4,
+      "liquid": 90.6
+    },
+    {
+      "year": 2021,
+      "month": "May",
+      "solid": 130.3,
+      "gas": 112,
+      "eletric": 169.4,
+      "liquid": 94.8
+    },
+    {
+      "year": 2021,
+      "month": "June",
+      "solid": 130.6,
+      "gas": 112,
+      "eletric": 169.4,
+      "liquid": 97.8
+    },
+    {
+      "year": 2021,
+      "month": "July",
+      "solid": 130.6,
+      "gas": 112,
+      "eletric": 169.7,
+      "liquid": 98.3
+    },
+    {
+      "year": 2021,
+      "month": "August",
+      "solid": 130.5,
+      "gas": 112,
+      "eletric": 169.7,
+      "liquid": 97.1
+    },
+    {
+      "year": 2021,
+      "month": "September",
+      "solid": 131.2,
+      "gas": 112,
+      "eletric": 169.7,
+      "liquid": 101.5
+    },
+    {
+      "year": 2021,
+      "month": "October",
+      "solid": 132.6,
+      "gas": 131.1,
+      "eletric": 184.4,
+      "liquid": 120.5
+    },
+    {
+      "year": 2021,
+      "month": "November",
+      "solid": 133.1,
+      "gas": 131.1,
+      "eletric": 184.4,
+      "liquid": 125
+    },
+    {
+      "year": 2021,
+      "month": "December",
+      "solid": 136.8,
+      "gas": 131.1,
+      "eletric": 184.4,
+      "liquid": 121.2
+    },
+   },
+   "2022":{
+    {
+      "year": 2022,
+      "month": "January",
+      "solid": 137.5,
+      "gas": 131.3,
+      "eletric": 185,
+      "liquid": 125.9
+    },
+    {
+      "year": 2022,
+      "month": "February",
+      "solid": 140,
+      "gas": 131.3,
+      "eletric": 185,
+      "liquid": 140.8
+    },
+    {
+      "year": 2022,
+      "month": "March",
+      "solid": 144.9,
+      "gas": 131.3,
+      "eletric": 185,
+      "liquid": 202.8
+    },
+    {
+      "year": 2022,
+      "month": "April",
+      "solid": 147.8,
+      "gas": 218.9,
+      "eletric": 260.2,
+      "liquid": 193.8
+    },
+    {
+      "year": 2022,
+      "month": "May",
+      "solid": 152,
+      "gas": 218.9,
+      "eletric": 260.2,
+      "liquid": 211.1
+    },
+    {
+      "year": 2022,
+      "month": "June",
+      "solid": 159.8,
+      "gas": 218.9,
+      "eletric": 260.2,
+      "liquid": 223.8
+    },
+    {
+      "year": 2022,
+      "month": "July",
+      "solid": 165.8,
+      "gas": 219.1,
+      "eletric": 261.3,
+      "liquid": 210.4
+    },
+    {
+      "year": 2022,
+      "month": "August",
+      "solid": 169.5,
+      "gas": 219.1,
+      "eletric": 261.3,
+      "liquid": 180.8
+    }
+   }
+ }
