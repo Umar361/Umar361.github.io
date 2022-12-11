@@ -1,34 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <title>Fuel rice Forecaster</title>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-  
-    <!-- Load Chart.js -->
+    <link rel="stylesheet" href="forecaster.css">
+    <title>Currency Exchange App</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
     <script src="https://unpkg.com/chartjs-plugin-colorschemes@0.4.0/dist/chartjs-plugin-colorschemes.min.js"></script>
 
 
-  </head>
+</head>
 
-  <body>
+<body>
+    <div class="container">
+        <header class="header">
+            <h3 class="title"> </h3>
+            
+        </header>
+        <div class="body_part">
+          <h1 id="year"></h1>
 
-    <h1 id="year"></h1>
+          <div id="graph-container" class="form">
+            <canvas id="chart-container" style="height: 400px; width: 100%"></canvas>
+          </div>
+            <div class="result">
+                <button class="btn" id="previous">Last Year</button>
+                <button class="btn" id="next">Last Year</button>
+                <h6 class="result_par"><span class="result_span"></span></h6>
+            </div>
 
-    <div id="graph-container">
-      <canvas id="chart-container" style="height: 400px; width: 100%"></canvas>
+        </div>
+        <footer>
+            <h3 class="name">Built By <a href="https://umar361.github.io">Umar Shan A</a> | &copy 2022</h3>
+        </footer>
     </div>
-
-    <div>
-      <button id="pastcast">Past</button>
-      <button id="forcast">Forecast</button>
-    </div>
-    
-
-    <script src="script.js"></script>
-
-  </body>
+    <script src="forecaster.js"></script>
+</body>
 
 </html>
