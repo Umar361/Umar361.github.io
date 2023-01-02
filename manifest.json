@@ -137,6 +137,7 @@
     "start_url": "/",
     "display": "fullscreen",
     "theme_color": "#EF3724",
+    "theme-color": "#EF3724",
     "background_color": "#ffffff",
     "orientation": "portrait"
   }
