@@ -126,7 +126,8 @@
         },
         {
           "src": "assets/icons/ios/512.png",
-          "sizes": "512x512"
+          "sizes": "512x512",
+          "purpose": "any maskable"
         },
         {
           "src": "assets/icons/ios/1024.png",
