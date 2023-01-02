@@ -28,10 +28,15 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
         caches.open(CACHE_NAME)
             .then(function(cache) {
-                console.log('Opened cache');
-                var x = cache.addAll(urlsToCache);
-                console.log('cache added');
-                return x;
+                try {
+                    console.log('Opened cache');
+                    var x = cache.addAll(urlsToCache);
+                    console.log('cache added');
+                    return x;
+                } catch (error) {
+                    return null
+                }
+                
             })
     );
 });
