@@ -1,6 +1,5 @@
 {
     "lang": "en",
-    "dir": "ltr",
     "name": "Umar Shan Arif's Portfolio",
     "short_name": "Umar's Portfolio",
     "icons": [
@@ -140,5 +139,6 @@
     "theme_color": "#EF3724",
     "theme-color": "#EF3724",
     "background_color": "#ffffff",
+    "scope": "/",
     "orientation": "portrait"
   }
