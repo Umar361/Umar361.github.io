@@ -380,7 +380,7 @@
     margin-top: 8px;
     padding: 15px 40px;
     background-color: #fddbd7;
-    color: #EF3724;
+    color: #AB1D0D;
     border-radius: 40px;
     font-weight: 500;
     font-size: 18px;
@@ -604,35 +604,35 @@
 /* Theme color style */
 /* Theme Red */
 .theme-red .topbar-nav .toggle-menu:hover {
-    color: #EF3724;
+    color: #AB1D0D;
 }
 
 .theme-red .main-menu .menu-link:hover,
 .theme-red .main-menu .active .menu-link {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
 }
 
 .theme-red .filterable-button .btn.selected,
 .theme-red .filterable-button .btn:focus {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
     color: #fff;
-    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #EF3724;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px #AB1D0D;
 }
 
 .theme-red .timeline li:first-child .title {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
 }
 
 .theme-red .timeline li:first-child::before {
-    background-color: #EF3724;
-    box-shadow: 0 0 0 2px #EF3724;
+    background-color: #AB1D0D;
+    box-shadow: 0 0 0 2px #AB1D0D;
 }
 
 .theme-red .testi-carousel .item .iconic {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
 }
 
 .theme-red .post-grid .post-category {
-    color: #EF3724;
+    color: #AB1D0D;
 }
 

@@ -1,5 +1,5 @@
 :root {
-    --theme-red: #ef3724;
+    --theme-red: #AB1D0D;
 }
 
 /* Light */
@@ -320,11 +320,11 @@ a:hover, a:active {
 
 
 .theme-red .fg-theme {
-    color: #EF3724 !important;
+    color: #AB1D0D !important;
 }
 
 .theme-red .btn-theme {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
     color: #fff;
 }
 
@@ -334,11 +334,11 @@ a:hover, a:active {
 }
 
 .theme-red .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #AB1D0D;
 }
 
 .theme-red .btn-fab {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
     color: #fff;
 }
 
@@ -348,15 +348,15 @@ a:hover, a:active {
 }
 
 .theme-red .progress {
-    box-shadow: 0 0 0 2px #EF3724;
+    box-shadow: 0 0 0 2px #AB1D0D;
 }
 
 .theme-red .progress-bar {
-    background-color: #EF3724;
+    background-color: #AB1D0D;
 }
 
 .theme-red .theme-list li::before {
-    border-color: #EF3724;
+    border-color: #AB1D0D;
 }
 
 
@@ -384,7 +384,7 @@ a:hover, a:active {
   }
   
   .sidebar a:hover {
-    color: #EF3724;
+    color: #AB1D0D;
   }
   
   .sidebar .closebtn {

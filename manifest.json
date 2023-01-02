@@ -136,8 +136,8 @@
     "id": "umar.shan.portfolio",
     "start_url": "./?utm_source=web_app_manifest",
     "display": "standalone",
-    "theme_color": "#EF3724",
-    "theme-color": "#EF3724",
+    "theme_color": "#AB1D0D",
+    "theme-color": "#AB1D0D",
     "background_color": "#ffffff",
     "scope": "/",
     "orientation": "portrait"
