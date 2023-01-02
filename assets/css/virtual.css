@@ -1,27 +1,3 @@
-/*
- 
- [Master Stylesheet]
-
- [Table of contents]
-
- 1. Basic
- 2. Button
- 3. Color Scheme
- 4. Progress bar
- 5. Theme list
- 6. Timeline
- 7. Navigation
- 8. Sidebar
- 9. Page Style
- 10. Social
- 11. Theme Color
- 12. Reveal
- 13. Page Switching
- 14. Carousel
- 15. Grid (OpenGraph)
-
- */
-
 :root {
     --theme-red: #ef3724;
 }
@@ -108,19 +84,8 @@ a:hover, a:active {
     width: 100%;height: auto;
 }
 
-/* Overlay */
-.overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;height: 100%;
-    background: rgba(0,0,0,0.6);
-    visibility: visible;
-    z-index: 99;
-}
-
 /* 
-    2. Button
+    Button
 */
 .btn-theme {
     padding: 10px 30px;
@@ -142,31 +107,6 @@ a:hover, a:active {
     box-shadow: 0 0 0 3px #fff, 0 0 0 5px #747474;
 }
 
-.btn-theme.no-shadow {
-    box-shadow: none !important;
-}
-
-.btn-theme-outline {
-    padding: 10px 30px;
-    margin: 5px;
-    height: unset;
-    background-color: transparent;
-    color: #747474;
-    border: 0;
-    font-weight: 500;
-    box-shadow: 0 0 0 2px #747474;
-}
-
-.btn-theme-outline:hover {
-    background-color: #747474;
-    color: #fff;
-}
-
-.btn-theme-outline:focus {
-    background-color: #747474;
-    color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #747474;
-}
 
 .btn-rounded {
     border-radius: 40px !important;
@@ -198,143 +138,10 @@ a:hover, a:active {
     line-height: 35px;
 }
 
-/* Social Button */
-.social {
-    position: relative;
-    display: block;
-    list-style: none;
-}
-
-.social .social-link {
-    display: inline-block;
-    margin: 3px;
-    width: 35px;
-    height: 35px;
-    border-radius: 50%;
-    text-align: center;
-    text-decoration: none;
-    line-height: 35px;
-    font-size: 12px;
-    background-color: #fff;
-    color: #888;
-    border: 1px solid #ddd;
-    -webkit-transition: all .3s;
-       -moz-transition: all .3s;
-            transition: all .3s;
-}
-
-.social .social-link:hover {
-    background-color: #ddd;
-    color: #fff;
-    border-color: transparent;
-}
-
-/* Back to top */
-.btn-back_to_top {
-    position: fixed;
-    bottom: 10px;
-    right: 14px;
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
-    text-align: center;
-    font-size: 18px;
-    border-radius: 50%;
-    background-color: #52565c;
-    color: #fff;
-    visibility: hidden;
-    cursor: pointer;
-    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
-    z-index: 99;
-}
-
-/* Template Config */
-.config {
-    position: fixed;
-    top: 50%;
-    right: -282px;
-    padding: 5px;
-    background-color: transparent;
-    transition: right .3s ease;
-    z-index: 100;
-}
-
-.config.active {
-    right: 0;
-}
-
-.template-config {
-    position: relative;
-    display: block;
-    float: left;
-    margin: 0 !important;
-    padding: 5px;
-    background-color: #fff;
-    border-radius: 12px 0 0 12px;
-    box-shadow: -3px 2px 9px rgba(50, 50, 50, 0.2);
-}
-
-.template-config .btn-fab {
-    background-color: transparent !important;
-    color: #52565c !important;
-    margin: 3px 0;
-}
-
-.template-config .btn-fab:hover,
-.template-config .btn-fab:focus {
-    background-color: #f2f4fa !important;
-}
-
-.color-bar {
-    display: block;
-    margin: 10px 0;
-    width: 100%;
-}
-
-.color-item {
-    display: inline-block;
-    margin: 5px 3px;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    line-height: 40px;
-    text-align: center;
-    cursor: pointer;
-}
-
-.color-item.selected {
-    background-position: center center;
-    background-size: 50% 50%;
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
-    background-repeat: no-repeat;
-}
-
-.set-menu {
-    position: relative;
-    display: inline-block;
-    margin: 0 !important;
-    padding: 10px 15px;
-    background-color: #fff;
-    box-shadow: 2px 2px 4px rgba(50, 50, 50, 0.2);
-}
-
 
 /* 
-    3. Color Scheme
+    Color Scheme
 */
-
-.bg-theme-gradient {
-    background-image: linear-gradient(to right, #f55745 0%, #8490ff 100%) !important;
-}
-
-.bg-theme-red {
-    background-color: #ef3724 !important;
-}
-
-
-.fg-theme-red {
-    color: #ef3724 !important;
-}
 
 .fg-dark {
     color: #343a40 !important;
@@ -342,78 +149,6 @@ a:hover, a:active {
 
 .fg-white {
     color: #fff !important;
-}
-
-/* Social Color */
-.bg-facebook,
-.bg-hover-facebook:hover {
-    background-color: #3B5997 !important;
-}
-
-.bg-twitter,
-.bg-hover-twitter:hover {
-    background-color: #1DA1F2 !important;
-}
-
-.bg-linkedin,
-.bg-hover-linkedin:hover {
-    background-color: #0077B5 !important;
-}
-
-.bg-pinterest,
-.bg-hover-pinterest:hover {
-    background-color: #BD081C !important;
-}
-
-.bg-google-plus,
-.bg-hover-google-plus:hover {
-    background-color: #D11718 !important;
-}
-
-.bg-behance,
-.bg-hover-behance:hover {
-    background-color: #005CFF !important;
-}
-
-
-.bg-dribbble,
-.bg-hover-dribbble:hover {
-    background-color: #E84C88 !important;
-}
-
-.bg-github,
-.bg-hover-github:hover {
-    background-color: #323131 !important;
-}
-
-.bg-instagram,
-.bg-hover-instagram:hover {
-    background-color: #DC3472 !important;
-}
-
-.bg-medium,
-.bg-hover-medium:hover {
-    background-color: #00AB6C !important;
-}
-
-.bg-reddit,
-.bg-hover-reddit:hover {
-    background-color: #FF4501 !important;
-}
-
-.bg-snapchat,
-.bg-hover-snapchat:hover {
-    background-color: #FFFC00 !important;
-}
-
-.bg-tumblr,
-.bg-hover-tumblr:hover {
-    background-color: #01273A !important;
-}
-
-.bg-youtube,
-.bg-hover-youtube:hover {
-    background-color: #FE0002 !important;
 }
 
 /* 
@@ -450,37 +185,6 @@ a:hover, a:active {
     5. Preloader
 */
 
-/* 
-    6. Pagination
-*/
-.page-item:not(:last-child) .page-link {
-    margin-right: 8px;
-}
-
-.page-item.active .page-link {
-    background-color: #52565c;
-    color: #fff;
-}
-
-.page-link {
-    border: 0;
-    padding: 10px 16px;
-    background-color: #f2f4fa;
-    color: #52565c;
-}
-
-.page-link:hover {
-    color: #2C2D34;
-}
-
-.page-link:focus {
-    box-shadow: none;
-}
-
-
-/* 
-    7. List style
-*/
 .theme-list {
     position: relative;
     padding-left: 30px;
@@ -518,55 +222,6 @@ a:hover, a:active {
     border: 2px solid #888;
 }
 
-/*
- *  8. Navigation 
- */
-.sticky {
-    top: 0;
-    z-index: 999;
-}
-
-.navbar-brand {
-    font-weight: 500;
-    padding-top: 12px;
-    padding-bottom: 12px;
-}
-
-.navbar-nav .nav-link {
-    padding: 14px 10px;
-}
-
-@media (min-width: 576px) {
-    .navbar-expand-sm .navbar-nav .nav-link {
-        padding-left: 12px;
-        padding-right: 12px;
-    }
-}
-
-@media (min-width: 768px) {
-    .navbar-expand-md .navbar-nav .nav-link {
-        padding-left: 14px;
-        padding-right: 14px;
-    }
-}
-
-@media (min-width: 992px) {
-    .navbar-expand-lg .navbar-nav .nav-link {
-        padding-left: 16px;
-        padding-right: 16px;
-    }
-}
-
-@media (min-width: 1200px) {
-    .navbar-expand-xl .navbar-nav .nav-link {
-        padding-left: 16px;
-        padding-right: 16px;
-    }
-}
-
-/* 
- *  9. Input
- */
 .form-control {
     height: unset;
     padding-top: 10px;
@@ -585,220 +240,15 @@ a:hover, a:active {
     color: #9FA2AB; 
 }
 
-.form-control::-moz-placeholder {
-    font-weight: 500;
-    color: #9FA2AB;
-}
-
 .form-control::placeholder {
     font-weight: 500;
     color: #9FA2AB;
-}
-
-/* 
- *  10. Select
- */
-.vg-select {
-    width: 100%;
-    height: unset;
-    line-height: unset;
-    padding: 10px 30px 10px 18px;
-    font-size: 16px;
-    border-width: 2px;
-    z-index: 11;
-}
-
-.vg-select:focus {
-    border-color: #80bdff;
-}
-
-.nice-select::after {
-    width: 7px;
-    height: 7px;
-    margin-top: -5px;
-    right: 15px;
-}
-
-
-/*
- *  8. Page Animation
- */
-
-/* Reveal */
-.reveal {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 0;
-    background: #202022;
-    z-index: 98;
-}
-
-.reveal-animate {
-    -webkit-animation-duration: 1.5s;
-    animation-duration: 1.5s;
-    -webkit-animation-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
-    animation-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
-    -webkit-animation-fill-mode: forwards;
-    animation-fill-mode: forwards;
-    height: 100vh;
-}
-
-.reveal-layer-top {
-    -webkit-animation-name: anim-effect-1;
-	animation-name: anim-effect-1;
-}
-
-.reveal-layer-bottom {
-    -webkit-animation-name: anim-effect-2;
-	animation-name: anim-effect-2;
-}
-
-@-webkit-keyframes anim-effect-1 {
-	0% {
-		-webkit-transform: translate3d(0, 0, 0);
-	}
-	35%, 65% {
-		-webkit-transform: translate3d(0, -100%, 0);
-	}
-	100% {
-		-webkit-transform: translate3d(0, -200%, 0);
-	}
-}
-
-@keyframes anim-effect-1 {
-	0% {
-		-webkit-transform: translate3d(0, 0, 0);
-		transform: translate3d(0, 0, 0);
-	}
-	35%, 65% {
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0);
-	}
-	100% {
-		-webkit-transform: translate3d(0, -200%, 0);
-		transform: translate3d(0, -200%, 0);
-	}
-}
-
-@-webkit-keyframes anim-effect-2 {
-	0% {
-		-webkit-transform: translate3d(0, 0, 0);
-	}
-	35%, 65% {
-		-webkit-transform: translate3d(0, -100%, 0);
-	}
-	100% {
-		-webkit-transform: translate3d(0, -200%, 0);
-	}
-}
-
-@keyframes anim-effect-2 {
-	0% {
-		-webkit-transform: translate3d(0, 0, 0);
-		transform: translate3d(0, 0, 0);
-	}
-	35%, 65% {
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, 100%, 0);
-	}
-	100% {
-		-webkit-transform: translate3d(0, -200%, 0);
-		transform: translate3d(0, 200%, 0);
-	}
-}
-
-
-/*
-    10. Plugins
-*/
-
-/* Owl Carousel */
-.owl-header {
-    position: relative;
-    display: flex;
-    align-items: center;
-    padding: 0 15px;
-    width: 100%;
-    height: 60px;
-    z-index: 10;
-}
-
-.owl-header .story-type {
-    margin-right: 10px;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    border-radius: 50%;
-    text-align: center;
-    background-color: #acacac;
-    color: #fff;
-}
-
-.owl-header .time {
-    display: block;
-    font-size: 12px;
-}
-
-.owl-nav .owl-prev,
-.owl-nav .owl-next {
-    position: absolute;
-    top: 0;bottom: 0;
-    margin: auto;
-    width: 30px;height: 30px;
-    border-radius: 50%;
-    background-color: #fff !important;
-    outline: none !important;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
-    opacity: 0;
-    visibility: hidden;
-}
-
-.owl-nav .disabled {
-    opacity: 0;
-    visibility: hidden;
 }
 
 .owl-carousel:hover .owl-nav .owl-prev:not(.disabled):not(:disabled),
 .owl-carousel:hover .owl-nav .owl-next:not(.disabled):not(:disabled) {
     opacity: 1;
     visibility: visible;
-}
-
-.owl-prev {
-    left: 10px;
-}
-
-.owl-next {
-    right: 10px;
-}
-
-.owl-dots {
-    position: relative;
-    display: block;
-    width: 100%;height: 50px;
-    line-height: 50px;
-    text-align: center;
-    background: #fff;
-}
-
-.owl-dots .owl-dot {
-    position: relative;
-    display: inline-block;
-    margin: 0 2px;
-    outline: none;
-}
-
-.owl-dots .owl-dot span {
-    display: block;
-    width: 10px;height: 10px;
-    border-radius: 50%;
-    background: #dadada;
-}
-
-.owl-dots .owl-dot.active span {
-    background: #3c94f8;
 }
 
 /* Isotope */
@@ -946,7 +396,6 @@ a:hover, a:active {
   }
   
   
-  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
   @media screen and (max-height: 450px) {
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
