@@ -411,7 +411,11 @@
                   <input class="form-control" aria-label="Subject" type="text" required name="Subject" minlength="4" placeholder="Subject">
                 </div>
                 <div class="col-12  fadeInUp">
-                  <textarea class="form-control" aria-label="Message" name="Message" required minlength="10" rows="6" placeholder="Enter message here.."></textarea>
+                  <textarea class="form-control" name="the-textarea" id="the-textarea" aria-label="Message" name="Message" required minlength="10" maxlength="500" rows="6" placeholder="Enter message here.." onkeyup="messageCounterHandler()"></textarea>
+                  <div id="the-count">
+                    <span id="current">0</span>
+                    <span id="maximum">/ 500</span>
+                  </div>
                 </div>
                 <div id="form-error">
                 </div>
@@ -493,6 +497,16 @@
             console.log('ServiceWorker registration failed: ', err);
         });
     }
+  </script>
+  <script>
+    function messageCounterHandler() {
+    
+    var characterCount = document.getElementById('the-textarea').value.length,
+        current = document.getElementById('current'),
+        maximum = document.getElementById('maximum'),
+        theCount = document.getElementById('the-count');
+        current.innerHTML = characterCount;        
+  };
   </script>
 
 </body>
