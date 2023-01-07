@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="forecaster.css">
-    <title>Currency Exchange App</title>
+    <title>Fuel Price Forecaster</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
     <script src="https://unpkg.com/chartjs-plugin-colorschemes@0.4.0/dist/chartjs-plugin-colorschemes.min.js"></script>
 
@@ -17,6 +17,10 @@
     <div class="container">
         <header class="header">
             <h3 class="title"> </h3>
+            <div>
+              <button class="btn active" id="history" >Historical</button>
+              <button class="btn inactive" id="forecast">Forecasting</button>
+            </div>
             
         </header>
         <div class="body_part">
@@ -24,7 +28,7 @@
           <div id="graph-container" class="chart">
             <canvas id="chart-container" style="height: 400px; width: 100%"></canvas>
           </div>
-            <div class="result">
+            <div class="result" id="result">
                 <button class="btn" id="previous"></button>
                 <h6 class="result_par"><span class="result_span"></span></h6>
                 <button class="btn" id="next"></button>

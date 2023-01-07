@@ -17,8 +17,8 @@ var SHOW_LEGEND = true;
 
 var datasets;
 
-var currentYear = new Date().getFullYear();
-var currentYearBk = new Date().getFullYear();
+var currentYear = 2022;
+var currentYearBk = 2022;
 
 var timeLabels = ['Jan', 'Fev', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 const title = document.querySelector('.title');
@@ -176,6 +176,32 @@ document.getElementById('next').addEventListener('click', function() {
   createChart(currentYear);
 })
 
+document.getElementById('history').addEventListener('click', function() {
+  console.log("history   mode")
+
+  var history = document.getElementById("history");
+  history.classList.add("active");
+  history.classList.remove("inactive");
+  var forecast = document.getElementById("forecast");
+  forecast.classList.add("inactive");
+  forecast.classList.remove("active");
+  var moveButtons = document.getElementById("result");
+  moveButtons.style.display = 'flex'
+})
+
+document.getElementById('forecast').addEventListener('click', function() {
+  console.log("forecast mode")
+  var forecast = document.getElementById("forecast");
+  forecast.classList.add("active");
+  forecast.classList.remove("inactive");
+  var history = document.getElementById("history");
+  history.classList.add("inactive");
+  history.classList.remove("active");
+  var moveButtons = document.getElementById("result");
+  moveButtons.style.display = 'none'
+  currentYear = 2022;
+  createChart(currentYear);
+})
 
     
 
