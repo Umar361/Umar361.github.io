@@ -101,7 +101,7 @@ body {
   }
 
 
-.col-md-6,  .col-lg-3, .col-lg-4, .col-lg-5,  .col-lg-7, .col-lg-12 {
+.col-medium,  .col-mini, .col-small, .col-mid,  .col-large{
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -112,7 +112,7 @@ body {
   
   @media (min-width: 768px) {
 
-    .col-md-6 {
+    .col-medium {
       -ms-flex: 0 0 50%;
       flex: 0 0 50%;
       max-width: 50%;
@@ -122,32 +122,26 @@ body {
   
   @media (min-width: 992px) {
 
-    .col-lg-3 {
+    .col-mini {
       -ms-flex: 0 0 25%;
       flex: 0 0 25%;
       max-width: 25%;
     }
-    .col-lg-4 {
+    .col-small {
       -ms-flex: 0 0 33.333333%;
       flex: 0 0 33.333333%;
       max-width: 33.333333%;
     }
-    .col-lg-5 {
+    .col-mid {
       -ms-flex: 0 0 41.666667%;
       flex: 0 0 41.666667%;
       max-width: 41.666667%;
     }
 
-    .col-lg-7 {
+    .col-large {
       -ms-flex: 0 0 58.333333%;
       flex: 0 0 58.333333%;
       max-width: 58.333333%;
-    }
-
-    .col-lg-12 {
-      -ms-flex: 0 0 100%;
-      flex: 0 0 100%;
-      max-width: 100%;
     }
   }
 
@@ -218,7 +212,7 @@ body {
     padding: 1.25rem;
   }
 
-  .w-100 {
+  .full-width {
     width: 100%;
   }
   
