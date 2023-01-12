@@ -25,19 +25,90 @@
         </header>
         <div class="body_part">
           <h1 id="year"></h1>
-          <div id="graph-container" class="chart">
-            <canvas id="chart-container" style="height: 400px; width: 100%"></canvas>
+          <div id="chart_parent">
+
+            <div id="graph-container" class="chart">
+              <canvas id="chart-container" style="height: 400px; width: 100%"></canvas>
+            </div>
           </div>
+
             <div class="result" id="result">
                 <button class="btn" id="previous"></button>
                 <h6 class="result_par"><span class="result_span"></span></h6>
                 <button class="btn" id="next"></button>
             </div>
+            <div class="tableContainer" id="tableContainer" >
+
+              <table>
+                <thead class="even">
+                  <th>
+                    Fuel
+                  </th>
+                  <th>
+                    Jan
+                  </th>
+                  <th>
+                    Feb
+                  </th>
+                  <th>
+                    Mar
+                  </th>
+                  <th>
+                    Apr
+                  </th>
+                  <th>
+                    May
+                  </th>
+                  <th>
+                    Jun
+                  </th>
+                  <th>
+                    Jul
+                  </th>
+                  <th>
+                    Aug
+                  </th>
+                  <th>
+                    Sep
+                  </th>
+                  <th>
+                    Oct
+                  </th>
+                  <th>
+                    Nov
+                  </th>
+                  <th>
+                    Dec
+                  </th>
+                </thead>
+                <tr id="trSolid">
+                  <th>
+                    Solid
+                  </th>
+                </tr>
+                <tr class="even" id="trLiquid">
+                  <th>
+                    Liquid
+                  </th>
+                </tr>
+                <tr id="trGas">
+                  <th>
+                    Gas
+                  </th>
+                </tr>
+                <tr class="even" id="trElectric">
+                  <th>
+                    Eletric
+                  </th>
+                </tr>
+              </table>
+            </div>
+
             <div class="result">
           </div>
         </div>
         <footer>
-            <h3 class="name">Built By <a href="https://umar361.github.io">Umar Shan A</a> | &copy 2022</h3>
+            <h3 class="name">Built By <a href="https://umar361.github.io">Umar Shan A</a> | &copy 2023</h3>
         </footer>
     </div>
     <script src="forecaster.js"></script>

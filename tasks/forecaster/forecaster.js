@@ -20,7 +20,7 @@ var datasets;
 var currentYear = 2022;
 var currentYearBk = 2022;
 
-var timeLabels = ['Jan', 'Fev', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+var timeLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 const title = document.querySelector('.title');
 const previous = document.querySelector('#previous');
 const next = document.querySelector('#next');
@@ -177,7 +177,6 @@ document.getElementById('next').addEventListener('click', function() {
 })
 
 document.getElementById('history').addEventListener('click', function() {
-  console.log("history   mode")
 
   var history = document.getElementById("history");
   history.classList.add("active");
@@ -186,11 +185,15 @@ document.getElementById('history').addEventListener('click', function() {
   forecast.classList.add("inactive");
   forecast.classList.remove("active");
   var moveButtons = document.getElementById("result");
-  moveButtons.style.display = 'flex'
+  moveButtons.style.display = 'flex';
+  var moveButtons = document.getElementById("tableContainer");
+  moveButtons.style.display = 'none';
+  var chart = document.getElementById("chart_parent");
+  chart.style.display = 'block';
+  createChart(currentYear)
 })
 
 document.getElementById('forecast').addEventListener('click', function() {
-  console.log("forecast mode")
   var forecast = document.getElementById("forecast");
   forecast.classList.add("active");
   forecast.classList.remove("inactive");
@@ -198,12 +201,79 @@ document.getElementById('forecast').addEventListener('click', function() {
   history.classList.add("inactive");
   history.classList.remove("active");
   var moveButtons = document.getElementById("result");
-  moveButtons.style.display = 'none'
+  moveButtons.style.display = 'none';
+  var chart = document.getElementById("chart_parent");
+  chart.style.display = 'none';
+  var table = document.getElementById("tableContainer");
+  table.style.display = 'block' ;
   currentYear = 2022;
-  createChart(currentYear);
+  title.innerHTML = `Fuel Prices forcast for calender year ${currentYear}`;
+  // createChart(currentYear);
+  populateTable()
 })
 
-    
+const trGas = document.querySelector('#trGas');
+const trLiquid = document.querySelector('#trLiquid');
+const trSolid = document.querySelector('#trSolid');
+const trElectric = document.querySelector('#trElectric');
+let tablePopulated = false
+function populateTable(){
+  if(tablePopulated)
+    return
+  const lastyear = datasets["2021"]
+  const thisYear = datasets["2022"]
+  let solidSum = 0;
+  let liquidSum = 0;
+  let gasSum = 0;
+  let electricSum = 0;
+  let solidMin = lastyear[0].solid;
+  let solidMax = lastyear[0].solid;
+  let liquidMin = lastyear[0].liquid;
+  let liquidMax = lastyear[0].liquid;
+  let gasMin = lastyear[0].gas;
+  let gasMax = lastyear[0].gas;
+  let elecMin = lastyear[0].eletric;
+  let elecMax = lastyear[0].eletric;
+  let solidDiff = 0;
+  let liquidDiff = 0;
+  let gasDiff = 0;
+  let elecDiff = 0;
+  for(var i=0;i<12;i++){
+    solidMin = lastyear[i].solid<solidMin ? lastyear[i].solid: solidMin
+    solidMax = lastyear[i].solid>solidMax ? lastyear[i].solid: solidMax
+    liquidMax = lastyear[i].liquid>liquidMax ? lastyear[i].liquid: liquidMax
+    liquidMin = lastyear[i].liquid<liquidMin ? lastyear[i].liquid: liquidMin
+    gasMax = lastyear[i].gas>gasMax ? lastyear[i].gas: gasMax
+    gasMin = lastyear[i].gas<gasMin ? lastyear[i].gas: gasMin
+    elecMax = lastyear[i].eletric>elecMax ? lastyear[i].eletric: elecMax
+    elecMin = lastyear[i].eletric<elecMin ? lastyear[i].eletric: elecMin
+    solidSum += lastyear[i].solid
+    liquidSum += lastyear[i].liquid
+    gasSum += lastyear[i].gas
+    electricSum += lastyear[i].eletric
+  }
+  console.log(electricSum, elecMax, elecMin)
+  solidDiff = ((solidMax - solidMin)/solidMax)*100
+  liquidDiff = ((liquidMax - liquidMin)/liquidMax)*100
+  gasDiff = ((gasMax - gasMin)/gasMax)*100
+  elecDiff = ((elecMax - elecMin)/elecMax)*100
+  for(var i=0;i<12;i++){
+    var td = document.createElement('td');
+    td.innerHTML = (lastyear[i].solid+solidDiff).toFixed(2);
+    trSolid.appendChild(td);
+    td = document.createElement('td');
+    td.innerHTML = (lastyear[i].liquid+liquidDiff).toFixed(2);
+    trLiquid.appendChild(td);
+    td = document.createElement('td');
+    td.innerHTML = (lastyear[i].gas+gasDiff).toFixed(2);
+    trGas.appendChild(td);
+    td = document.createElement('td');
+    td.innerHTML = (lastyear[i].eletric+elecDiff).toFixed(2);
+    trElectric.appendChild(td);
+  }
+  tablePopulated = true
+}
+
 
     
 

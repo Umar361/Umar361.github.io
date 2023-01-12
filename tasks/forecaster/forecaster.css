@@ -101,7 +101,45 @@ body {
     outline: none;
     font-weight: 500;
 }
+th{
+    align-items: center;
+    text-align:center;
+    color: white;
+    border-right: 1pt solid gray;
+    padding: 0pt 5pt;
+}
+tr{
+    align-items:flex-start;
+    justify-content: space-between;
+    width: 90%;
+    border-top: 1pt solid gray;
+}
+table{
+    width: 80%;
+    align-self: center;
+    border-collapse: collapse;
+    border: 1pt solid gray;
+    margin: 30pt 10%;
+}
+tr{
+    height: 3rem;
+}
+td{
+    color: silver;
+    text-align: center;
+    padding: 0pt 10pt;
+}
 
+.even{
+    background-color: var(--header_back);
+}
+
+.tableContainer{
+    overflow-x:auto; 
+    justify-content: center;
+    width: 100%; 
+    display: none
+}
 .result{
     height: 20vh;
     display: flex;
@@ -195,6 +233,14 @@ footer {
     .result_span{
         font-size: .9rem;
     }
+    .tableContainer{
+        display: block;
+    }
+}
+@media(max-width:720px){
+    .tableContainer{
+        display: block;
+    }
 }
 @media(max-width:400px){
     .result_par{
@@ -206,11 +252,17 @@ footer {
     .title{
         font-size: .8rem;
     }
+    .tableContainer{
+        display: block;
+    }
 }
 
 @media(max-width:549px){
     .title{
         font-size: 1rem !important;
+    }
+    .tableContainer{
+        display: block;
     }
 }
 
@@ -218,4 +270,11 @@ footer {
     .title{
         font-size: .7rem !important;
     }
+    .tableContainer{
+        display: block;
+    }
+}
+table.bodywrapcenter>tr>td {
+    width: 100%;
+    float: left;
 }
