@@ -26,7 +26,7 @@ body {
     min-height: 120vh;
 }
 .header{
-    height: 10vh;
+    height: 15vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -159,6 +159,7 @@ td{
     border-radius: 10px;
     font-family: inherit;
     font-weight: 600;
+    margin: 3pt 5pt;
     font-size: 1rem;
     cursor: pointer;
     transition: .2s;
@@ -236,6 +237,10 @@ footer {
     .tableContainer{
         display: block;
     }
+    .header{
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 @media(max-width:720px){
     .tableContainer{
@@ -255,6 +260,10 @@ footer {
     .tableContainer{
         display: block;
     }
+    .header{
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 
 @media(max-width:549px){
@@ -264,6 +273,10 @@ footer {
     .tableContainer{
         display: block;
     }
+    .header{
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 
 @media(max-width:300px){
@@ -272,6 +285,10 @@ footer {
     }
     .tableContainer{
         display: block;
+    }
+    .header{
+        display: flex;
+        flex-wrap: wrap;
     }
 }
 table.bodywrapcenter>tr>td {
