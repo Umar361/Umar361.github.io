@@ -388,7 +388,8 @@
     bottom: -24px;
     margin: auto;
     padding: 10px 24px;
-    width: 140px;
+    text-align: center;
+    width: 160px;
     box-shadow: none;
 }
 
